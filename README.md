@@ -35,7 +35,7 @@ ________________________________________________________________________________
 ## 📫 Connect with Me
 
 * 💼 [LinkedIn](www.linkedin.com/in/ketkikale)
-* 📧 [Email :] [ketki.kale.office@gmail.com]
+* 📧 [ketki.kale.office@gmail.com]
 * 🌐 Portfolio ()
 
 ---
