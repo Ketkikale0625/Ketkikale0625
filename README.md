@@ -9,3 +9,4 @@ ________________________________________________________________________________
   🔎Passionate about solving problems and finding solutions through data insights.
   🤝Looking for remote roles in Power BI development, busines/data analytics
   
+# 🖥️ Tools and Technology
