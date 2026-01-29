@@ -27,7 +27,7 @@ ________________________________________________________________________________
 ## 📌 Featured Projects
 
 🔹 [Zomato Case Study: Data Analysis in Food Delivery Business](#)
-🔹 [Retail Sales EDA Project (Jupyter Notebook)](#)
+🔹 [Retail Sales EDA Project (Power BI Report)](#)
 🔹 [Power BI Dashboards & Reports](#)
 
 ---
